@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref/>
+        <active>true</active>
+        <content><![CDATA[<div>Test21</div>]]></content>
+        <guide display_value="Incident Management - Form Layout">fff953c8db421200efb03bc8f0b8f54c</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>gudedtourstep012</name>
+        <options/>
+        <order/>
+        <placement>bottom</placement>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-29 11:54:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>138f902d6c3c4810964ff53f18517307</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>gudedtourstep012</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_138f902d6c3c4810964ff53f18517307</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-29 11:56:34</sys_updated_on>
+        <target/>
+        <target_ref/>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window/>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=138f902d6c3c4810964ff53f18517307"/>
+</record_update>

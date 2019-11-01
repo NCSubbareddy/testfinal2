@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_processor">
+    <sys_processor action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <description/>
+        <interactive>false</interactive>
+        <name>p1</name>
+        <parameters/>
+        <params_endpoint/>
+        <path/>
+        <path_endpoint/>
+        <require_csrf>false</require_csrf>
+        <roles/>
+        <script><![CDATA[(function process(g_request, g_response, g_processor) {
+
+	// Add your code here
+
+
+	//updated..vs code
+
+	//updated..
+
+})(g_request, g_response, g_processor);]]></script>
+        <sys_class_name>sys_processor</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 05:31:54</sys_created_on>
+        <sys_id>b2a1aa486c38c410964ff53f18517334</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>p1</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_update_name>sys_processor_b2a1aa486c38c410964ff53f18517334</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 05:42:18</sys_updated_on>
+        <type>script</type>
+    </sys_processor>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</application>
+        <file_path/>
+        <instance_id>8390d2eb1b9848102cfec8092a4bcbc5</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_processor_b2a1aa486c38c410964ff53f18517334</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_processor"&gt;&lt;sys_processor action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;description/&gt;&lt;interactive&gt;false&lt;/interactive&gt;&lt;name&gt;p1&lt;/name&gt;&lt;parameters/&gt;&lt;params_endpoint/&gt;&lt;path/&gt;&lt;path_endpoint/&gt;&lt;require_csrf&gt;false&lt;/require_csrf&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function process(g_request, g_response, g_processor) {
+
+	// Add your code here
+
+
+	//updated..vs code
+
+	//updated..
+
+})(g_request, g_response, g_processor);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_processor&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-25 05:31:54&lt;/sys_created_on&gt;&lt;sys_id&gt;b2a1aa486c38c410964ff53f18517334&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;p1&lt;/sys_name&gt;&lt;sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal"&gt;0e7e5ac46c38c410964ff53f1851733a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="VSCodeFinalTesting01"&gt;0e7e5ac46c38c410964ff53f1851733a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_processor_b2a1aa486c38c410964ff53f18517334&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-25 05:42:18&lt;/sys_updated_on&gt;&lt;type&gt;script&lt;/type&gt;&lt;/sys_processor&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1224537718</payload_hash>
+        <record_name>p1</record_name>
+        <reverted_from/>
+        <source>f5e0a2486c38c410964ff53f185173de</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 05:42:18</sys_created_on>
+        <sys_id>130422886c38c410964ff53f1851739b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e016fdddd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 05:42:18</sys_updated_on>
+        <type>Processor</type>
+        <update_guid>9b0422886838c41024b8049d6e5f7d9a</update_guid>
+        <update_guid_history>9b0422886838c41024b8049d6e5f7d9a:1224537718,08f3eec8f238c410dcb57f7bcc34b834:-1163041519,b9e1ea08ca38c410de262a7782ce95a7:1993520394,3ea1aa481838c4102be02760f096ea35:-1139437910</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-31 08:42:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_processor">sys_processor</sys_db_object>
+        <sys_id>392fafbbb8a5492c974cf8b46172cf90</sys_id>
+        <sys_metadata>b2a1aa486c38c410964ff53f18517334</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>p1</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_scope_delete display_value="">48fe7dfe09b04608bc197bd9cfbe5aa4</sys_scope_delete>
+        <sys_update_name>sys_processor_b2a1aa486c38c410964ff53f18517334</sys_update_name>
+        <sys_update_version display_value="sys_processor_b2a1aa486c38c410964ff53f18517334">130422886c38c410964ff53f1851739b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-31 08:42:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

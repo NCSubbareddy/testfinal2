@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_type">
+    <asmt_metric_type action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_public>false</allow_public>
+        <allow_retake>false</allow_retake>
+        <anonymize>false</anonymize>
+        <business_rule/>
+        <condition/>
+        <default_filter>-- None --</default_filter>
+        <delete_business_rule/>
+        <description/>
+        <disable_ui_action/>
+        <display_all_filters>false</display_all_filters>
+        <display_field>description</display_field>
+        <duration>1970-01-15 00:00:00</duration>
+        <enable_ui_action/>
+        <end_note/>
+        <enforce_condition>false</enforce_condition>
+        <evaluation_method>assessment</evaluation_method>
+        <filter_condition/>
+        <filter_table>sys_security_acl</filter_table>
+        <introduction/>
+        <job/>
+        <live_feed>false</live_feed>
+        <name>testabc01</name>
+        <not_show_intro_note>false</not_show_intro_note>
+        <notify_if_overdue>false</notify_if_overdue>
+        <notify_user>true</notify_user>
+        <one_click_survey>false</one_click_survey>
+        <overdue_notify_user/>
+        <portal_pagination>category</portal_pagination>
+        <publish_state>draft</publish_state>
+        <roles/>
+        <sample_metric/>
+        <scale_factor>1</scale_factor>
+        <schedule_period>0</schedule_period>
+        <schedule_type>on_demand</schedule_type>
+        <scoring_type>percent</scoring_type>
+        <signature display_value="s">5c29d3046cb8c410964ff53f1851735b</signature>
+        <source_table/>
+        <survey_owners>6816f79cc0a8016401c5a33be04be441</survey_owners>
+        <sys_class_name>asmt_metric_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 09:34:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>841993046cb8c410964ff53f185173d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>testabc01</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_update_name>asmt_metric_type_841993046cb8c410964ff53f185173d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 09:34:40</sys_updated_on>
+        <table>sys_security_acl</table>
+        <url/>
+        <user_field/>
+    </asmt_metric_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=841993046cb8c410964ff53f185173d1"/>
+</record_update>

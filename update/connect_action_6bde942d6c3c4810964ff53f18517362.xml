@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="connect_action">
+    <connect_action action="INSERT_OR_UPDATE">
+        <condition>coonectaction012</condition>
+        <hint/>
+        <icon/>
+        <order/>
+        <script><![CDATA[//added..]]></script>
+        <shortcut/>
+        <sys_class_name>connect_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-29 11:51:18</sys_created_on>
+        <sys_id>6bde942d6c3c4810964ff53f18517362</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>coonectaction012</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_update_name>connect_action_6bde942d6c3c4810964ff53f18517362</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-29 11:51:18</sys_updated_on>
+        <title>coonectaction012</title>
+    </connect_action>
+</record_update>

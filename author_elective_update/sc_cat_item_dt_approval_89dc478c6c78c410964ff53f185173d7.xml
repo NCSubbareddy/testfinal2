@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_dt_approval">
+    <sc_cat_item_dt_approval action="DELETE">
+        <approval_script><![CDATA[//added..]]></approval_script>
+        <assigned_to/>
+        <condition/>
+        <condition_script/>
+        <delivery_plan/>
+        <delivery_time/>
+        <description/>
+        <generation_script/>
+        <group/>
+        <instructions/>
+        <name>exeplanatask01</name>
+        <order>100</order>
+        <rejection_goto/>
+        <short_description/>
+        <sla/>
+        <sys_class_name>sc_cat_item_dt_approval</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 08:40:43</sys_created_on>
+        <sys_id>89dc478c6c78c410964ff53f185173d7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>exeplanatask01</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_update_name>sc_cat_item_dt_approval_89dc478c6c78c410964ff53f185173d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 08:42:12</sys_updated_on>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <work_notes/>
+    </sc_cat_item_dt_approval>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</application>
+        <file_path/>
+        <instance_id>8390d2eb1b9848102cfec8092a4bcbc5</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sc_cat_item_dt_approval_89dc478c6c78c410964ff53f185173d7</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_dt_approval"&gt;&lt;sc_cat_item_dt_approval action="INSERT_OR_UPDATE"&gt;&lt;approval_script&gt;&lt;![CDATA[//added..]]&gt;&lt;/approval_script&gt;&lt;assigned_to/&gt;&lt;condition/&gt;&lt;condition_script/&gt;&lt;delivery_plan/&gt;&lt;delivery_time/&gt;&lt;description/&gt;&lt;generation_script/&gt;&lt;group/&gt;&lt;instructions/&gt;&lt;name&gt;exeplanatask01&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;rejection_goto/&gt;&lt;short_description/&gt;&lt;sla/&gt;&lt;sys_class_name&gt;sc_cat_item_dt_approval&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-25 08:40:43&lt;/sys_created_on&gt;&lt;sys_id&gt;89dc478c6c78c410964ff53f185173d7&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;exeplanatask01&lt;/sys_name&gt;&lt;sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal"&gt;0e7e5ac46c38c410964ff53f1851733a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="VSCodeFinalTesting01"&gt;0e7e5ac46c38c410964ff53f1851733a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_dt_approval_89dc478c6c78c410964ff53f185173d7&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-25 08:42:12&lt;/sys_updated_on&gt;&lt;upon_approval&gt;proceed&lt;/upon_approval&gt;&lt;upon_reject&gt;cancel&lt;/upon_reject&gt;&lt;work_notes/&gt;&lt;/sc_cat_item_dt_approval&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1732548724</payload_hash>
+        <record_name>exeplanatask01</record_name>
+        <reverted_from/>
+        <source>f5e0a2486c38c410964ff53f185173de</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 08:42:12</sys_created_on>
+        <sys_id>e63dc78c6c78c410964ff53f185173f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e021491250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 08:42:12</sys_updated_on>
+        <type>Execution Plan Approval Task</type>
+        <update_guid>623dc78c0378c410df5d42c1ea67ddf1</update_guid>
+        <update_guid_history>623dc78c0378c410df5d42c1ea67ddf1:1732548724,34ec478c1478c410cda267fc9fe2badc:1424781749</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="exeplanatask01">55d6cece6c3c8810964ff53f18517349</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-31 08:42:30</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_dt_approval">sc_cat_item_dt_approval</sys_db_object>
+        <sys_id>0b0c5b7c1f7e4060861862360a85b240</sys_id>
+        <sys_metadata>89dc478c6c78c410964ff53f185173d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>exeplanatask01</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_scope_delete display_value="">48fe7dfe09b04608bc197bd9cfbe5aa4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_dt_approval_89dc478c6c78c410964ff53f185173d7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_dt_approval_89dc478c6c78c410964ff53f185173d7">e63dc78c6c78c410964ff53f185173f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-31 08:42:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

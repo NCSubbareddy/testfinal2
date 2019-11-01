@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_dt_approval">
+    <sc_cat_item_dt_approval action="DELETE">
+        <approval_script/>
+        <assigned_to/>
+        <condition/>
+        <condition_script/>
+        <delivery_plan/>
+        <delivery_time/>
+        <description/>
+        <generation_script/>
+        <group/>
+        <instructions/>
+        <name>test41</name>
+        <order>100</order>
+        <rejection_goto/>
+        <short_description/>
+        <sla/>
+        <sys_class_name>sc_cat_item_dt_approval</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-31 08:47:44</sys_created_on>
+        <sys_id>38084a426c7c8810964ff53f18517323</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test41</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_update_name>sc_cat_item_dt_approval_38084a426c7c8810964ff53f18517323</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-31 08:47:44</sys_updated_on>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <work_notes/>
+    </sc_cat_item_dt_approval>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</application>
+        <file_path/>
+        <instance_id>8390d2eb1b9848102cfec8092a4bcbc5</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sc_cat_item_dt_approval_38084a426c7c8810964ff53f18517323</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_dt_approval"><sc_cat_item_dt_approval action="INSERT_OR_UPDATE"><approval_script/><assigned_to/><condition/><condition_script/><delivery_plan/><delivery_time/><description/><generation_script/><group/><instructions/><name>test41</name><order>100</order><rejection_goto/><short_description/><sla/><sys_class_name>sc_cat_item_dt_approval</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 08:47:44</sys_created_on><sys_id>38084a426c7c8810964ff53f18517323</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test41</sys_name><sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package><sys_policy/><sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope><sys_update_name>sc_cat_item_dt_approval_38084a426c7c8810964ff53f18517323</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 08:47:44</sys_updated_on><upon_approval>proceed</upon_approval><upon_reject>cancel</upon_reject><work_notes/></sc_cat_item_dt_approval></record_update>]]></payload>
+        <payload_hash>-1370055877</payload_hash>
+        <record_name>test41</record_name>
+        <reverted_from/>
+        <source>f5e0a2486c38c410964ff53f185173de</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-31 08:47:44</sys_created_on>
+        <sys_id>ca084a426c7c8810964ff53f18517390</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e20ffcaef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-31 08:47:44</sys_updated_on>
+        <type>Execution Plan Approval Task</type>
+        <update_guid>06084a42ea7c88109af2e87960d06290</update_guid>
+        <update_guid_history>06084a42ea7c88109af2e87960d06290:-1370055877</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="test41">ef28ca426c7c8810964ff53f18517381</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-31 08:48:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_dt_approval">sc_cat_item_dt_approval</sys_db_object>
+        <sys_id>0c00092039484cfa978d8ac7ca3520e9</sys_id>
+        <sys_metadata>38084a426c7c8810964ff53f18517323</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test41</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_scope_delete display_value="">48fe7dfe09b04608bc197bd9cfbe5aa4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_dt_approval_38084a426c7c8810964ff53f18517323</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_dt_approval_38084a426c7c8810964ff53f18517323">ca084a426c7c8810964ff53f18517390</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-31 08:48:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

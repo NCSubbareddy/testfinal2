@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_css">
+    <content_css action="INSERT_OR_UPDATE">
+        <name>stylesheet01</name>
+        <style/>
+        <sys_class_name>content_css</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-30 06:49:58</sys_created_on>
+        <sys_id>1773a8b56cf08810964ff53f1851738c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>stylesheet01</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_update_name>content_css_1773a8b56cf08810964ff53f1851738c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-30 06:52:53</sys_updated_on>
+        <type>local</type>
+        <url/>
+    </content_css>
+</record_update>

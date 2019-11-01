@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script><![CDATA[gs.include('incident');]]></client_script>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_nutr_vscodefinal_uipage012.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+<j2:case ></j2:case>
+<div>Test</div>
+<p>Test22</p>
+<a href="sadds" aria-busy="sds"></a>
+</j:jelly>]]></html>
+        <name>uipage012</name>
+        <processing_script><![CDATA[var gr = new GlideRecord('incident');]]></processing_script>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-30 07:14:56</sys_created_on>
+        <sys_id>fc3968f56cf08810964ff53f185173fa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>uipage012</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_update_name>sys_ui_page_fc3968f56cf08810964ff53f185173fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-30 07:15:35</sys_updated_on>
+    </sys_ui_page>
+</record_update>

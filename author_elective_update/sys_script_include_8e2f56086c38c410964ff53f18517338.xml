@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_nutr_vscodefinal.scriptinclude01</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>scriptinclude01</name>
+        <script><![CDATA[var scriptinclude01 = Class.create();
+scriptinclude01.prototype = {
+    initialize: function() {
+        //added in vs code..
+    },
+
+    type: 'scriptinclude01'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 05:21:09</sys_created_on>
+        <sys_id>8e2f56086c38c410964ff53f18517338</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>scriptinclude01</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_update_name>sys_script_include_8e2f56086c38c410964ff53f18517338</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 05:27:13</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</application>
+        <file_path/>
+        <instance_id>8390d2eb1b9848102cfec8092a4bcbc5</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_script_include_8e2f56086c38c410964ff53f18517338</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_nutr_vscodefinal.scriptinclude01&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;scriptinclude01&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var scriptinclude01 = Class.create();
+scriptinclude01.prototype = {
+    initialize: function() {
+        //added in vs code..
+    },
+
+    type: 'scriptinclude01'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-25 05:21:09&lt;/sys_created_on&gt;&lt;sys_id&gt;8e2f56086c38c410964ff53f18517338&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;scriptinclude01&lt;/sys_name&gt;&lt;sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal"&gt;0e7e5ac46c38c410964ff53f1851733a&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="VSCodeFinalTesting01"&gt;0e7e5ac46c38c410964ff53f1851733a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_8e2f56086c38c410964ff53f18517338&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-25 05:27:13&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>658658050</payload_hash>
+        <record_name>scriptinclude01</record_name>
+        <reverted_from/>
+        <source>4e7e5ac46c38c410964ff53f1851733c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 05:27:14</sys_created_on>
+        <sys_id>1a9022486c38c410964ff53f18517340</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e01620f500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 05:27:14</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>de9022488b38c410b94225a3f771e23f</update_guid>
+        <update_guid_history>de9022488b38c410b94225a3f771e23f:658658050,a13f56089a38c410ecfa44c08f138f41:483932449</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-31 08:42:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>5da37f85b2384745a529b189901cc911</sys_id>
+        <sys_metadata>8e2f56086c38c410964ff53f18517338</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scriptinclude01</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_scope_delete display_value="">48fe7dfe09b04608bc197bd9cfbe5aa4</sys_scope_delete>
+        <sys_update_name>sys_script_include_8e2f56086c38c410964ff53f18517338</sys_update_name>
+        <sys_update_version display_value="sys_script_include_8e2f56086c38c410964ff53f18517338">1a9022486c38c410964ff53f18517340</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-31 08:42:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

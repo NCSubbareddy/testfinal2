@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cool_thing">
+    <cool_thing action="INSERT_OR_UPDATE">
+        <number/>
+        <short_description/>
+        <sys_class_name>cool_thing</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 07:15:27</sys_created_on>
+        <sys_id>8359f2846c78c410964ff53f185173c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_update_name>cool_thing_8359f2846c78c410964ff53f185173c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 07:15:27</sys_updated_on>
+        <text/>
+    </cool_thing>
+    <sys_translated_text action="delete_multiple" query="documentkey=8359f2846c78c410964ff53f185173c7"/>
+</record_update>

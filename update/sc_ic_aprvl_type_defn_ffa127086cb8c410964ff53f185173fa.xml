@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_aprvl_type_defn">
+    <sc_ic_aprvl_type_defn action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approver_script/>
+        <description/>
+        <groups/>
+        <name/>
+        <sc_ic_aprvl_type_defn_staging/>
+        <sc_ic_version/>
+        <script_output/>
+        <sys_class_name>sc_ic_aprvl_type_defn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 10:11:51</sys_created_on>
+        <sys_id>ffa127086cb8c410964ff53f185173fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_update_name>sc_ic_aprvl_type_defn_ffa127086cb8c410964ff53f185173fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 10:11:51</sys_updated_on>
+        <type/>
+        <users/>
+    </sc_ic_aprvl_type_defn>
+    <sys_translated_text action="delete_multiple" query="documentkey=ffa127086cb8c410964ff53f185173fa"/>
+</record_update>

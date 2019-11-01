@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_action">
+    <sys_cb_action action="INSERT_OR_UPDATE">
+        <applicability/>
+        <name>goalactionb01</name>
+        <parent/>
+        <script><![CDATA[//updated...]]></script>
+        <selected_table/>
+        <set_values/>
+        <sys_class_name>sys_cb_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 10:23:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>a244a7486cb8c410964ff53f185173d7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>goalactionb01</sys_name>
+        <sys_package display_value="VSCodeFinalTesting01" source="x_nutr_vscodefinal">0e7e5ac46c38c410964ff53f1851733a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VSCodeFinalTesting01">0e7e5ac46c38c410964ff53f1851733a</sys_scope>
+        <sys_update_name>sys_cb_action_a244a7486cb8c410964ff53f185173d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 10:23:52</sys_updated_on>
+        <template/>
+        <template_read/>
+        <topic_goal display_value="TG">701a90136c608410964ff53f18517345</topic_goal>
+        <type>create_record</type>
+        <variable_table>var__m_topic_variable_e92a14136c608410964ff53f18517314</variable_table>
+        <vars/>
+    </sys_cb_action>
+    <sys_element_mapping action="delete_multiple" query="id=a244a7486cb8c410964ff53f185173d7"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>set_values</field>
+        <id>a244a7486cb8c410964ff53f185173d7</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 10:23:14</sys_created_on>
+        <sys_id>5654a7486cb8c410964ff53f1851737b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 10:23:14</sys_updated_on>
+        <table>sys_cb_action</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>template</field>
+        <id>a244a7486cb8c410964ff53f185173d7</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 10:23:14</sys_created_on>
+        <sys_id>9e54a7486cb8c410964ff53f1851737a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 10:23:14</sys_updated_on>
+        <table>sys_cb_action</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>template_read</field>
+        <id>a244a7486cb8c410964ff53f185173d7</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-25 10:23:14</sys_created_on>
+        <sys_id>1a54a7486cb8c410964ff53f1851737b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 10:23:14</sys_updated_on>
+        <table>sys_cb_action</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
